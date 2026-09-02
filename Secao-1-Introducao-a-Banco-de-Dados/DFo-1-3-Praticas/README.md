@@ -2,6 +2,14 @@
 
 ## Exercício 1 — Identificação dos Modelos de Banco de Dados
 
+## Objetivo
+
+Identificar e compreender os principais tipos de modelos de banco de dados, reconhecendo suas características e formas de organização dos dados.
+
+## Descrição da Atividade
+
+A atividade consiste em identificar os modelos de banco de dados apresentados em diferentes situações e compreender como cada modelo organiza e representa os dados. Foram abordados os modelos hierárquico, de dados hierárquico, orientado a objetos e relacional.
+
 ### Respostas
 
 **a) Modelo Hierárquico**
