@@ -2,6 +2,14 @@
 
 ## Exercício 1 — Requisitos de Negócios
 
+## Objetivo
+
+Identificar e analisar as regras de negócio presentes em diferentes cenários, relacionando cada regra às respectivas restrições que podem ser aplicadas ao banco de dados para garantir a integridade e a consistência das informações.
+
+## Descrição da Atividade
+
+A atividade consiste em analisar os cenários da biblioteca LibBook e do Hospital Star Care, identificar suas principais regras de negócio e relacioná-las às constraints necessárias para representá-las no banco de dados. O exercício busca desenvolver a capacidade de transformar requisitos de negócio em regras e restrições aplicáveis à estrutura de um banco de dados.
+
 ### 1. LibBook
 
 | Regra de negócio | Constraint associada |
