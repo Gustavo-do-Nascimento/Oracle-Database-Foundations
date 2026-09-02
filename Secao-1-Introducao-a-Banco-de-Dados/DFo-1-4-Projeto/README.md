@@ -1,10 +1,14 @@
 # DFo 1-4: Projeto
 
-## Descrição
-
-Atividade de identificação dos requisitos de negócio da Oracle Baseball League (OBL), considerando suas regras de negócio, suposições, problemas e necessidades para auxiliar na criação do modelo de dados do sistema.
-
 ## Exercício — Requisitos do Negócio
+
+## Objetivo
+
+Identificar e analisar os requisitos de negócio da Oracle Baseball League (OBL), reconhecendo as principais regras, suposições, problemas e necessidades do sistema para estabelecer uma base adequada para a criação do modelo de dados.
+
+## Descrição da Atividade
+
+A atividade consiste em analisar o cenário da Oracle Baseball League (OBL) e levantar os requisitos necessários para representar seu funcionamento em um banco de dados. A análise considera os tipos de clientes, produtos, equipes, pedidos, estoque, descontos e representantes de vendas, além das principais necessidades e problemas relacionados ao sistema.
 
 ### 1. Regras de Negócio
 
