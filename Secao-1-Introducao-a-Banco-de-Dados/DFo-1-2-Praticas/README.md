@@ -4,7 +4,11 @@
 
 ### Objetivo
 
-Identificar os principais dados que precisam ser armazenados para atender às necessidades de um sistema de registro de alunos e de um sistema de gerenciamento de biblioteca.
+Identificar e analisar quais informações precisam ser armazenadas em um banco de dados para atender às necessidades de diferentes sistemas, considerando os dados necessários para o cadastro de alunos e para o gerenciamento de uma biblioteca.
+
+### Descrição da Atividade
+
+A atividade consiste em analisar dois cenários de sistemas — um sistema de registro de alunos e um sistema de gerenciamento de biblioteca — e identificar os principais dados que devem ser armazenados em cada um deles. O exercício tem como finalidade desenvolver a compreensão sobre a identificação de informações necessárias para a estruturação de um banco de dados.
 
 ### Resolução
 
